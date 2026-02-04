@@ -79,7 +79,7 @@ http://127.0.0.1:8000/docs
 
 Open:
 
- **[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)**
+ http://127.0.0.1:8000/docs
 
 ---
 
@@ -110,7 +110,7 @@ Response:
 
 ---
 
-### 2️⃣ Search (Optional – Debug)
+### 2️. Search (Optional – Debug)
 
 Endpoint:
 
@@ -122,7 +122,7 @@ This returns top matching chunks from the document.
 
 ---
 
-### 3️⃣ Ask Question (Main Endpoint)
+### 3️.  Ask Question (Main Endpoint)
 
 Endpoint:
 
